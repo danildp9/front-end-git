@@ -1,0 +1,51 @@
+
+.text{
+    color: pink;
+    text-align:center;
+}
+
+#num1{
+    color: green;
+    font-family: cursive;
+}
+.num1{
+    color: rgb(61, 163, 13);
+    font-family: cursive;
+}
+#num2{
+    color: coral;
+    font-family: serif;
+}
+
+.pid {
+    color: crimson;
+    font-family: serif;
+}
+.name{
+    color: gold;
+}
+#class1{ 
+    color: deepskyblue;
+}
+ 
+.num3{ 
+    font-family: fantasy;
+
+}
+#class2{
+    color: red;
+}
+
+#class3 {
+    color: aquamarine;
+
+}
+
+.num4{
+    color: brown;
+
+}
+#class4{
+    color: bisque;
+}
+
